@@ -1,6 +1,7 @@
 J'ai utilisé les commandes suivantes:
 
 -ls
+-cp -r
 -cd
 -touch
 -mkdir
