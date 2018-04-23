@@ -1,5 +1,5 @@
 J'ai utilisé les commandes suivantes:
-
+-cp -r
 -ls
 -cp -r
 -cd
