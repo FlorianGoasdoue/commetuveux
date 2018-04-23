@@ -1,0 +1,7 @@
+J'ai utilisé les commandes suivantes:
+
+-ls
+-cd
+-touch
+-mkdir
+-mv
